@@ -1,1 +1,2 @@
-git rm --cached -f *.DS_Store
+.DS_Store
+**/.DS_Store
