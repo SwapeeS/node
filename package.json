@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/SwapeeS/node/issues"
   },
-  "homepage": "https://github.com/SwapeeS/node#readme"
+  "homepage": "https://github.com/SwapeeS/node#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "colors": "^1.4.0"
+  }
 }
