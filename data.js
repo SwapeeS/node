@@ -4,5 +4,6 @@ module.exports = {
     name: "kuldeep Soni",
     z: function () {
         console.log("this is a function")
-    }
+    },
+    zz: "z"
 }
