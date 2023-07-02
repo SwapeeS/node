@@ -5,5 +5,6 @@ module.exports = {
     z: function () {
         console.log("this is a function")
     },
-    zz: "z"
+    zz: "z",
+    a: "aa"
 }
